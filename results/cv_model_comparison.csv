@@ -1,0 +1,4 @@
+model,cv_auc_mean,cv_auc_sd
+Logistic Regression,0.9864,0.0064
+Random Forest,0.9809,0.0096
+XGBoost,0.9774,0.0131
