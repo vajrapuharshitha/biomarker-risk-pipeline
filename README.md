@@ -1,5 +1,8 @@
 # Biomarker Prioritization & Risk Classification Pipeline
 
+**Live app:** https://biomarker-risk-pipeline.streamlit.app/
+**Live 3D demo:** https://vajrapuharshitha.github.io/biomarker-risk-pipeline/
+
 Supervised ML pipeline that ranks candidate biomarkers and classifies disease risk, with clinical thresholding.
 Built for the "Cancer & Atherosclerosis Biomarkers" case-study theme (AI feature selection and risk scoring).
 
